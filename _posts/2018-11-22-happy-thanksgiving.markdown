@@ -1,3 +1,9 @@
+---
+title:  "Happy Thanksgiving!"
+date:   2018-11-22 10:56:00
+categories: [holiday]
+tags: [holiday, thanksgiving, happy, thankful]
+---
 Happy Thanksgiving!! Here is a list of things I am thankful for:
 - Friends and Family
 - My amazing (yet often stressful) job
