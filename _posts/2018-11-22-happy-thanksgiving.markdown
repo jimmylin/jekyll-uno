@@ -4,6 +4,8 @@ date:   2018-11-22 10:56:00
 categories: [holiday]
 tags: [holiday, thanksgiving, happy, thankful]
 ---
+![alt text](https://cms.splendidtable.org/sites/default/files/styles/w2000/public/glazed-and-lacquered-roast-turkey-940x560-1445271807.jpg?itok=pW0dfcup "Gobble gobble")
+
 Happy Thanksgiving!! Here is a list of things I am thankful for:
 - Friends and Family
 - My amazing (yet often stressful) job
